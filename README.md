@@ -79,6 +79,6 @@ Aprendendo os conceitos do React Native, com uma pequena aplicação que se comu
 
 ## Repositório do frond-end Web
 
-<a href="https://github.com/kayzarosa/conceitosReactJS">Conceitos de NodeJS</a>
+<a href="https://github.com/kayzarosa/conceitosReactJS">Conceitos de ReactJS</a>
 
 Feito com ♥ by Kayza :wave:
