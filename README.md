@@ -8,6 +8,10 @@
 
 > <img src="https://user-images.githubusercontent.com/20192309/80269274-a0373880-8684-11ea-9a84-73519e476030.jpg" width="5%" /> Sorria sempre independente do que esteja acontecendo, pois tudo passa.
 
+## Sobre o desafio
+
+Nesse desafio apreendemos a trabalhar com mobile, criando aplicativos que utilizara a base (back-end) para mostrar ao usuários suas possibilidades. Ele listará todos os repositórios ali cadastrados e aqui ele consiguirá visualizar eles e dar like para aqueles de quem mais gostou... rsr
+
 ## Versão
 
 ````sh
